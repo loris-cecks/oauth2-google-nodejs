@@ -6,7 +6,7 @@ Render user's information after successful authentication.
 # Installation
 ## Prerequisites
 Node.js
-NPM or Yarn
+NPM
 ## Steps
 ### Clone the repository:
 git clone https://github.com/loris-cecks/oauth2-google-nodejs.git
